@@ -1,0 +1,2 @@
+lxml: pip install lxml
+request: pip install requests
